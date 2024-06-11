@@ -1,0 +1,12 @@
+{
+  "name": "nanji",
+  "display": "standalone",
+  "start_url": "https://nanji.shoya-otaki.site/",
+  "icons": [
+      {
+          "src": "/assets/img/icon.svg",
+          "sizes": "512x512",
+          "type": "image/png"
+      }
+    ]
+}
